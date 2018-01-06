@@ -5,13 +5,16 @@ ad1.xiaomi.com
 
 # 微鲸
 api.cupid.ptqy.gitv.tv
-
 down.aginomoto.com/heliosota
 u.aginomoto.com/service
 u2.aginomoto.com/service
 u3.aginomoto.com/service
-u4.aginomoto.com/service
-u5.aginomoto.com/service
+tvlog.aginomoto.com
+videolog.aginomoto.com
+applog.aginomoto.com
+wlslog.aginomoto.com
+ad.aginomoto.com
+cooperation.aginomoto.com/getConfig
 
 # 视频去广告(微鲸有效)
 vmindhls.tc.qq.com
