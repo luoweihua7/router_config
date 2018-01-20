@@ -6,6 +6,7 @@ ad1.xiaomi.com
 # 微鲸
 api.cupid.ptqy.gitv.tv
 down.aginomoto.com
+appdown.aginomoto.com
 u.aginomoto.com
 u2.aginomoto.com
 u3.aginomoto.com
@@ -17,8 +18,6 @@ videolog.aginomoto.com
 applog.aginomoto.com
 wlslog.aginomoto.com
 ad.aginomoto.com
-appdown.aginomoto.com
-down.aginomoto.com
 cooperation.aginomoto.com
 bdstatic.com
 
