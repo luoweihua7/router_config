@@ -17,7 +17,7 @@ applog.aginomoto.com
 wlslog.aginomoto.com
 ad.aginomoto.com
 cooperation.aginomoto.com
-
+bdstatic.com
 
 # 视频去广告(微鲸有效)
 vmindhls.tc.qq.com
