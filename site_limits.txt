@@ -17,6 +17,8 @@ videolog.aginomoto.com
 applog.aginomoto.com
 wlslog.aginomoto.com
 ad.aginomoto.com
+appdown.aginomoto.com
+down.aginomoto.com
 cooperation.aginomoto.com
 bdstatic.com
 
