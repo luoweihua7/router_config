@@ -11,6 +11,7 @@ u2.aginomoto.com
 u3.aginomoto.com
 aginomoto.com/monitor
 aginomoto.com/config
+gitv.tv/monitor
 tvlog.aginomoto.com
 videolog.aginomoto.com
 applog.aginomoto.com
