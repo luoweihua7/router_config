@@ -29,6 +29,8 @@ gallery.pandora.xiaomi.com
 o2o.api.xiaomi.com
 bss.pandora.xiaomi.com
 gvod.aiseejapp.atianqi.com
+api3.0/advertise.action
+iptv/api/new/startup/advertise
 
 
 # 微鲸
