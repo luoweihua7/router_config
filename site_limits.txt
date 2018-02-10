@@ -2,6 +2,19 @@
 ad.mi.com
 ad.xiaomi.com
 ad1.xiaomi.com
+api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ad.mi.comad.xiaomi.com
+adv.sec.miui.com
+test.ad.xiaomi.com
+new.api.ad.xiaomi.com
+cdn.ad.xiaomi.com
+e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+ssp.ad.xiaomi.com
+o2o.api.xiaomi.com
+api.cupid.ptqy.gitv.tv
+
 
 # 微鲸
 api.cupid.ptqy.gitv.tv
