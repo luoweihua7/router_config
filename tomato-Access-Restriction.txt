@@ -49,9 +49,11 @@ bdstatic.com
 vmindhls.tc.qq.com
 btrace.play.ott.video.qq.com
 omgmta.play.ott.video.qq.com
-newHomePage
 abControl
 getConfig
 videoscreensaver
 monitor
 kvcollect
+Service/Domain
+# 不刷新桌面今日推荐
+newHomePage
