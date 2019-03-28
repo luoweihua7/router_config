@@ -25,6 +25,10 @@ data.mistat.xiaomi.com
 jellyfish.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
 bss.pandora.xiaomi.com
+misc.in.duokanbox.com
+package.cdn.pandora.xiaomi.com
+package.box.xiaomi.com
+ota.cdn.pandora.xiaomi.com
 gvod.aiseejapp.atianqi.com
 down.aginomoto.com
 appdown.aginomoto.com
